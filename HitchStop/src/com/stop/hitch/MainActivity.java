@@ -7,6 +7,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 //Komentar
 	//Drugi komentar
+	//Treci komentar
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
