@@ -4,5 +4,10 @@
     <string name="app_name">HitchStop</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_pretraga">PretragaActivity</string>
+    <string name="polaziste">polaziste</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="cilj">cilj</string>
+    <string name="datum">1/1/2013</string>
 
 </resources>
