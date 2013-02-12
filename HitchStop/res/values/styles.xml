@@ -18,6 +18,9 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    <style name="styleName">
+        <item name="android:background">@style/AppTheme</item>
+    </style>
     <style name="ButtonBarButton" />
 
     <style name="ButtonBar">

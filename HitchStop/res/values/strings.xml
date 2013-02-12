@@ -7,11 +7,17 @@
     <string name="erStartLocation">Unesi polaznu tacku</string>
     <string name="er_startLocationBtn">Mapa</string>
     <string name="er_endLocation">Unesi dolaznu tacku</string>
-<string name="title_activity_enter_route"> Unos rute</string>
-<string name="er_startTimeTx">Unesi polazno vreme</string>
-<string name="er_startDateTx">Unesi polazni datum</string>
-<string name="er_iAmDriver">Ja sam vozac</string>
-<string name="er_iAmTraveler">Ja sam putnik</string>
-<string name="er_driverTravelerRbg">Izaberite vasu ulogu</string>
-<string name="er_continueBtn">Dalje</string>
+    <string name="title_activity_enter_route"> Unos rute</string>
+    <string name="er_startTimeTx">Unesi polazno vreme</string>
+    <string name="er_startDateTx">Unesi polazni datum</string>
+    <string name="er_iAmDriver">Ja sam vozac</string>
+    <string name="er_iAmTraveler">Ja sam putnik</string>
+    <string name="er_driverTravelerRbg">Izaberite vasu ulogu</string>
+    <string name="er_continueBtn">Dalje</string>
+    <string name="title_activity_pretraga">PretragaActivity</string>
+    <string name="polaziste">polaziste</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="cilj">cilj</string>
+    <string name="datum">1/1/2013</string>
+
 </resources>
