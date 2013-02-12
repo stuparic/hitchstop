@@ -13,7 +13,6 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <activity
             android:name="com.stop.hitch.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
@@ -21,7 +20,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
     </application>
 
 </manifest>
